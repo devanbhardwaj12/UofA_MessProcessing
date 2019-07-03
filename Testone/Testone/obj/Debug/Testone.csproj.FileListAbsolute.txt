@@ -1,0 +1,7 @@
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\obj\Debug\Testone.csprojAssemblyReference.cache
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\obj\Debug\Testone.csproj.CoreCompileInputs.cache
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\bin\Debug\Testone.exe.config
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\bin\Debug\Testone.exe
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\bin\Debug\Testone.pdb
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\obj\Debug\Testone.exe
+D:\Users\Devan Bhardwaj\Desktop\Athabasa\Testone\Testone\obj\Debug\Testone.pdb
